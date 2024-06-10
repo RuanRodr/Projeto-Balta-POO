@@ -1,0 +1,14 @@
+/home/jose-ruan/Projeto/bin/Debug/net8.0/Projeto
+/home/jose-ruan/Projeto/bin/Debug/net8.0/Projeto.deps.json
+/home/jose-ruan/Projeto/bin/Debug/net8.0/Projeto.runtimeconfig.json
+/home/jose-ruan/Projeto/bin/Debug/net8.0/Projeto.dll
+/home/jose-ruan/Projeto/bin/Debug/net8.0/Projeto.pdb
+/home/jose-ruan/Projeto/obj/Debug/net8.0/Projeto.GeneratedMSBuildEditorConfig.editorconfig
+/home/jose-ruan/Projeto/obj/Debug/net8.0/Projeto.AssemblyInfoInputs.cache
+/home/jose-ruan/Projeto/obj/Debug/net8.0/Projeto.AssemblyInfo.cs
+/home/jose-ruan/Projeto/obj/Debug/net8.0/Projeto.csproj.CoreCompileInputs.cache
+/home/jose-ruan/Projeto/obj/Debug/net8.0/Projeto.dll
+/home/jose-ruan/Projeto/obj/Debug/net8.0/refint/Projeto.dll
+/home/jose-ruan/Projeto/obj/Debug/net8.0/Projeto.pdb
+/home/jose-ruan/Projeto/obj/Debug/net8.0/Projeto.genruntimeconfig.cache
+/home/jose-ruan/Projeto/obj/Debug/net8.0/ref/Projeto.dll
